@@ -1,6 +1,6 @@
 import cv2
 
-img=cv2.imread("C:\opencv\selena_gomez.jpg")
+img=cv2.imread("C:\opencv\selena_gomez.jpg")# the given path should be simple and clear
 print(img)
 cv2.imshow("frame1", img)
 import cv2
